@@ -1,2 +1,2 @@
-# rpi
+# Raspberry PI
 About Raspberry PI
